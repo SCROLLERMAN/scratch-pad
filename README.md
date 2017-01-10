@@ -1,0 +1,2 @@
+# scratch-pad
+Weekly Excercises 
